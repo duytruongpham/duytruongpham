@@ -8,6 +8,7 @@
 
 #### ⭐ Recent Stars
 
+- [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library (today)
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices (1 day ago)
 - [khoi/sorting-visualization](https://github.com/khoi/sorting-visualization) - 🌈 Sorting Algorithms Visualization (2 years ago)
 
