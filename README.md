@@ -8,13 +8,14 @@
 
 #### ⭐ Recent Stars
 
-- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (today)
-- [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library (1 day ago)
-- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices (2 days ago)
+- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (1 day ago)
+- [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library (2 days ago)
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices (3 days ago)
 - [khoi/sorting-visualization](https://github.com/khoi/sorting-visualization) - 🌈 Sorting Algorithms Visualization (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
+- [danhhhh](https://github.com/danhhhh)
 - [daphne97](https://github.com/daphne97)
 
 #### 💬 Feedback
