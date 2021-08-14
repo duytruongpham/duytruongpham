@@ -8,14 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. (1 day ago)
-- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (4 days ago)
-- [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library (5 days ago)
-- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices (6 days ago)
+- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (today)
+- [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. (2 days ago)
+- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (5 days ago)
+- [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library (6 days ago)
+- [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices (1 week ago)
 - [khoi/sorting-visualization](https://github.com/khoi/sorting-visualization) - 🌈 Sorting Algorithms Visualization (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
+- [changtraixuqang97](https://github.com/changtraixuqang97)
 - [hoanbi1812000](https://github.com/hoanbi1812000)
 - [danhhhh](https://github.com/danhhhh)
 - [daphne97](https://github.com/daphne97)
