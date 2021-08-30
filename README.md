@@ -13,7 +13,7 @@
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (2 weeks ago)
 - [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (2 weeks ago)
 - [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. (2 weeks ago)
-- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (2 weeks ago)
+- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (3 weeks ago)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library (3 weeks ago)
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise. (3 weeks ago)
 - [khoi/sorting-visualization](https://github.com/khoi/sorting-visualization) - 🌈 Sorting Algorithms Visualization (2 years ago)
