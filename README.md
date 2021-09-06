@@ -8,24 +8,24 @@
 
 #### ⭐ Recent Stars
 
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time (today)
-- [med0x2e/SigFlip](https://github.com/med0x2e/SigFlip) - SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature. (4 days ago)
-- [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook is a PLT hook framework for Android app. (5 days ago)
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time (1 day ago)
+- [med0x2e/SigFlip](https://github.com/med0x2e/SigFlip) - SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature. (5 days ago)
+- [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook is a PLT hook framework for Android app. (6 days ago)
 - [orbitersim/orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator (2 weeks ago)
 - [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (2 weeks ago)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (3 weeks ago)
 - [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (3 weeks ago)
 - [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. (3 weeks ago)
-- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (3 weeks ago)
+- [GPUOpen-Effects/FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) - FidelityFX Super Resolution (4 weeks ago)
 - [lyft/Hammer](https://github.com/lyft/Hammer) - iOS touch synthesis library (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [notmariekondo](https://github.com/notmariekondo)
 - [logit507](https://github.com/logit507)
 - [Hiimsonkul](https://github.com/Hiimsonkul)
 - [daphnetd](https://github.com/daphnetd)
 - [sarutobi12](https://github.com/sarutobi12)
-- [changtraixuqang97](https://github.com/changtraixuqang97)
 
 #### 💬 Feedback
 
