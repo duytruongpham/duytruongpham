@@ -8,7 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French. (4 days ago)
+- [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing) - GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world&#39;s largest multilingual content repository that will be available to everyone.  (today)
+- [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French. (5 days ago)
 - [ErickWendel/semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) - Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone (1 week ago)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analysis scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. (1 week ago)
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time (1 week ago)
@@ -17,7 +18,6 @@
 - [orbitersim/orbiter](https://github.com/orbitersim/orbiter) - Open-source repository of Orbiter Space Flight Simulator (4 weeks ago)
 - [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (1 month ago)
 - [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) - An open letter against Apple&#39;s new privacy-invasive client-side content scanning. (1 month ago)
-- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
