@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI (1 day ago)
-- [hypercube-lab/hypercube](https://github.com/hypercube-lab/hypercube) - HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰 (5 days ago)
+- [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI (2 days ago)
+- [hypercube-lab/hypercube](https://github.com/hypercube-lab/hypercube) - HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰 (6 days ago)
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (1 week ago)
 - [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (1 week ago)
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (1 week ago)
