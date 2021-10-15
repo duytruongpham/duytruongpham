@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit (6 days ago)
+- [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit (1 week ago)
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ? (1 week ago)
 - [luin/wechat-export](https://github.com/luin/wechat-export) - 📃 Export WeChat chat histories to HTML files. (1 week ago)
 - [Kaustubh-Natuskar/companies-to-apply](https://github.com/Kaustubh-Natuskar/companies-to-apply) - This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) &amp; good start-ups. (1 week ago)
