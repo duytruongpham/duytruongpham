@@ -17,7 +17,7 @@
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (3 weeks ago)
 - [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (3 weeks ago)
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (3 weeks ago)
-- [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing) - GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world&#39;s largest multilingual content repository that will be available to everyone.  (3 weeks ago)
+- [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing) - GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world&#39;s largest multilingual content repository that will be available to everyone.  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
