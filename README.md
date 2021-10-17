@@ -8,6 +8,7 @@
 
 #### ⭐ Recent Stars
 
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines (today)
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit (1 week ago)
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ? (1 week ago)
 - [luin/wechat-export](https://github.com/luin/wechat-export) - 📃 Export WeChat chat histories to HTML files. (1 week ago)
@@ -16,8 +17,7 @@
 - [hypercube-lab/hypercube](https://github.com/hypercube-lab/hypercube) - HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰 (3 weeks ago)
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (3 weeks ago)
 - [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (3 weeks ago)
-- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (3 weeks ago)
-- [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing) - GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world&#39;s largest multilingual content repository that will be available to everyone.  (4 weeks ago)
+- [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
