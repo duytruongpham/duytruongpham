@@ -8,15 +8,15 @@
 
 #### ⭐ Recent Stars
 
-- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines (today)
+- [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines (1 day ago)
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit (1 week ago)
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ? (1 week ago)
 - [luin/wechat-export](https://github.com/luin/wechat-export) - 📃 Export WeChat chat histories to HTML files. (1 week ago)
-- [Kaustubh-Natuskar/companies-to-apply](https://github.com/Kaustubh-Natuskar/companies-to-apply) - This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) &amp; good start-ups. (1 week ago)
-- [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI (2 weeks ago)
+- [Kaustubh-Natuskar/companies-to-apply](https://github.com/Kaustubh-Natuskar/companies-to-apply) - This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) &amp; good start-ups. (2 weeks ago)
+- [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI (3 weeks ago)
 - [hypercube-lab/hypercube](https://github.com/hypercube-lab/hypercube) - HyperCube is a revolutionary, high-performance decentralized computing platform. HyperCube has powerful computing  capabilities to provide high-performance computing power and large-scale data storage support for VR, AR, Metaverse, Artificial Intelligence, Big Data, and Financial Applications.🛰 (3 weeks ago)
 - [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) - CVE-2021-40444 PoC (3 weeks ago)
-- [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (3 weeks ago)
+- [smartvotedocs/votesmart2021](https://github.com/smartvotedocs/votesmart2021) - Кандидаты Умного голосования в Госдуму 2021 (4 weeks ago)
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀 (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
