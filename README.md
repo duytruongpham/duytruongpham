@@ -8,16 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [waydabber/BetterDummy](https://github.com/waydabber/BetterDummy) - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions. (today)
+- [waydabber/BetterDummy](https://github.com/waydabber/BetterDummy) - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions. (1 day ago)
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Toolkit for Prompt-Learning. (1 week ago)
 - [ZhangNanBei/WokerLifeMatters](https://github.com/ZhangNanBei/WokerLifeMatters) - 各大公司作息统计 (1 week ago)
 - [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro! (1 week ago)
-- [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms (1 week ago)
+- [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms (2 weeks ago)
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines (2 weeks ago)
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit (3 weeks ago)
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ? (3 weeks ago)
 - [luin/wechat-export](https://github.com/luin/wechat-export) - 📃 Export WeChat chat histories to HTML files. (4 weeks ago)
-- [Kaustubh-Natuskar/companies-to-apply](https://github.com/Kaustubh-Natuskar/companies-to-apply) - This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) &amp; good start-ups. (4 weeks ago)
+- [Kaustubh-Natuskar/companies-to-apply](https://github.com/Kaustubh-Natuskar/companies-to-apply) - This repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) &amp; good start-ups. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
