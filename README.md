@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~ (1 day ago)
-- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot (4 days ago)
-- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - GUIA EXTENSO DE PROGRAMAÇÃO: (5 days ago)
-- [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root (6 days ago)
+- [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~ (2 days ago)
+- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot (5 days ago)
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - GUIA EXTENSO DE PROGRAMAÇÃO: (6 days ago)
+- [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root (1 week ago)
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables. (1 week ago)
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! (1 week ago)
 - [stong/how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free) - How to exploit a double free vulnerability in 2021. &#39;Use After Free for Dummies&#39; (1 week ago)
