@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (today)
+- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (1 day ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (1 week ago)
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library (2 weeks ago)
 - [slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单 (2 weeks ago)
@@ -17,7 +17,7 @@
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - GUIA EXTENSO DE PROGRAMAÇÃO: (3 weeks ago)
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root (3 weeks ago)
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables. (4 weeks ago)
-- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! (4 weeks ago)
+- [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
