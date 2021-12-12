@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [chjj/mako](https://github.com/chjj/mako) - Bitcoin node written in C (4 days ago)
+- [chjj/mako](https://github.com/chjj/mako) - Bitcoin node written in C (5 days ago)
 - [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (1 week ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (2 weeks ago)
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library (3 weeks ago)
