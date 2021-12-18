@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗 (today)
+- [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗 (1 day ago)
 - [chjj/mako](https://github.com/chjj/mako) - Bitcoin node written in C (1 week ago)
-- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (1 week ago)
+- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (2 weeks ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (3 weeks ago)
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library (4 weeks ago)
 - [slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单 (1 month ago)
