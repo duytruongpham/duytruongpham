@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (6 days ago)
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (1 week ago)
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps (1 week ago)
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library. (1 week ago)
 - [atomiks/floating-ui](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more (1 week ago)
@@ -16,7 +16,7 @@
 - [klinix5/InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) -  (1 week ago)
 - [RimoChan/match-you](https://github.com/RimoChan/match-you) - 【您配吗】配你吗 (2 weeks ago)
 - [chjj/mako](https://github.com/chjj/mako) - Bitcoin node written in C (3 weeks ago)
-- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (3 weeks ago)
+- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (4 weeks ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (1 month ago)
 
 #### 👯 Check out some of my recent followers
