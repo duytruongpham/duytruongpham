@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style. (1 day ago)
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style. (2 days ago)
 - [cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db) - A community sourced list of log4j-affected software (1 week ago)
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model (1 week ago)
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It&#39;s fast! (2 weeks ago)
