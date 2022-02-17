@@ -8,13 +8,13 @@
 
 #### ⭐ Recent Stars
 
-- [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   (2 days ago)
-- [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 days ago)
-- [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 (4 days ago)
+- [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   (3 days ago)
+- [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (4 days ago)
+- [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 (5 days ago)
 - [skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems (1 week ago)
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal (1 week ago)
 - [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (1 week ago)
-- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (1 week ago)
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools. (2 weeks ago)
 - [DREAM-DK/MAKRO](https://github.com/DREAM-DK/MAKRO) -  (2 weeks ago)
 - [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (2 weeks ago)
 - [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (3 weeks ago)
