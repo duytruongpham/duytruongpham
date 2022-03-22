@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (1 day ago)
-- [erkexzcx/stoppropaganda](https://github.com/erkexzcx/stoppropaganda) - A special DOS application to stop pro-Russian aggression websites. Support Ukraine! (4 days ago)
-- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (5 days ago)
+- [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (2 days ago)
+- [erkexzcx/stoppropaganda](https://github.com/erkexzcx/stoppropaganda) - A special DOS application to stop pro-Russian aggression websites. Support Ukraine! (5 days ago)
+- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (6 days ago)
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager (1 week ago)
 - [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet (1 week ago)
 - [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (2 weeks ago)
