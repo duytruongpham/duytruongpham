@@ -8,13 +8,13 @@
 
 #### ⭐ Recent Stars
 
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (1 day ago)
-- [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (6 days ago)
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (2 days ago)
+- [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (1 week ago)
 - [erkexzcx/stoppropaganda](https://github.com/erkexzcx/stoppropaganda) - A special DOS application to stop pro-Russian aggression websites. Support Ukraine! (1 week ago)
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (1 week ago)
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager (1 week ago)
 - [opengs/uashield](https://github.com/opengs/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet (2 weeks ago)
-- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (2 weeks ago)
+- [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) (3 weeks ago)
 - [4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview) - 打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作 (3 weeks ago)
 - [vvmdx/Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) - 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ (3 weeks ago)
 - [github/advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. (3 weeks ago)
