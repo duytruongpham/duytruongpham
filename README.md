@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates (1 day ago)
-- [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project (2 days ago)
-- [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (6 days ago)
+- [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates (2 days ago)
+- [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project (3 days ago)
+- [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (1 week ago)
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software. (1 week ago)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (2 weeks ago)
 - [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (3 weeks ago)
