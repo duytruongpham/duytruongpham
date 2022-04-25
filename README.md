@@ -8,14 +8,14 @@
 
 #### ⭐ Recent Stars
 
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (1 day ago)
-- [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (2 days ago)
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (5 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (2 days ago)
+- [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (3 days ago)
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (6 days ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 week ago)
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates (2 weeks ago)
 - [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project (2 weeks ago)
 - [BoomingTech/Pilot](https://github.com/BoomingTech/Pilot) - Pilot – mini game engine for games104 (2 weeks ago)
-- [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software. (2 weeks ago)
+- [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software. (3 weeks ago)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (1 month ago)
 - [Arriven/db1000n](https://github.com/Arriven/db1000n) -  (1 month ago)
 
