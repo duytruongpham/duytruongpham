@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area. (1 day ago)
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (4 days ago)
-- [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (5 days ago)
+- [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area. (2 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (5 days ago)
+- [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (6 days ago)
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (1 week ago)
 - [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (1 week ago)
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates (2 weeks ago)
