@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (today)
-- [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code (3 days ago)
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 day ago)
+- [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code (4 days ago)
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (1 week ago)
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (2 weeks ago)
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (2 weeks ago)
@@ -17,7 +17,7 @@
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (3 weeks ago)
 - [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (3 weeks ago)
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (3 weeks ago)
-- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (3 weeks ago)
+- [kognise/arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP? (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
