@@ -8,16 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 day ago)
+- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (today)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 days ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 week ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 week ago)
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code (1 week ago)
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (3 weeks ago)
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (3 weeks ago)
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (3 weeks ago)
-- [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area. (3 weeks ago)
+- [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area. (4 weeks ago)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (1 month ago)
-- [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY &amp; Low-cost Linux Develop-Kit Based On F1C200s. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
