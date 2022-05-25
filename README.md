@@ -8,11 +8,11 @@
 
 #### ⭐ Recent Stars
 
-- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (today)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (2 days ago)
+- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (1 day ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (3 days ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 week ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 week ago)
-- [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code (1 week ago)
+- [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code (2 weeks ago)
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (3 weeks ago)
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (3 weeks ago)
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (3 weeks ago)
@@ -21,11 +21,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [about-github](https://github.com/about-github)
 - [resslerruntime](https://github.com/resslerruntime)
 - [blackstorm0514](https://github.com/blackstorm0514)
 - [notmariekondo](https://github.com/notmariekondo)
 - [logit507](https://github.com/logit507)
-- [Hiimsonkul](https://github.com/Hiimsonkul)
 
 #### 💬 Feedback
 
