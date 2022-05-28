@@ -8,13 +8,13 @@
 
 #### ⭐ Recent Stars
 
-- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (3 days ago)
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (5 days ago)
+- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (4 days ago)
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (6 days ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 week ago)
-- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 week ago)
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (2 weeks ago)
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code (2 weeks ago)
 - [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (3 weeks ago)
-- [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (3 weeks ago)
+- [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (4 weeks ago)
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (4 weeks ago)
 - [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area. (1 month ago)
 - [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (1 month ago)
