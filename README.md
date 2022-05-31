@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic &#34;twitter like&#34; community built on gin&#43;zinc&#43;vue&#43;ts 清新文艺微社区 (today)
-- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (1 day ago)
-- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (6 days ago)
+- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic &#34;twitter like&#34; community built on gin&#43;zinc&#43;vue&#43;ts 清新文艺微社区 (1 day ago)
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (2 days ago)
+- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system (1 week ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (2 weeks ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (2 weeks ago)
@@ -21,11 +21,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [LordsanteVenus](https://github.com/LordsanteVenus)
 - [about-github](https://github.com/about-github)
 - [resslerruntime](https://github.com/resslerruntime)
 - [blackstorm0514](https://github.com/blackstorm0514)
 - [notmariekondo](https://github.com/notmariekondo)
-- [logit507](https://github.com/logit507)
 
 #### 💬 Feedback
 
