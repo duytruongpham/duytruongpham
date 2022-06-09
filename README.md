@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) - 100 Modern CSS Buttons, Free And Royalty Free. (5 days ago)
-- [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️ (6 days ago)
+- [eludadev/css-buttons](https://github.com/eludadev/css-buttons) - 100 Modern CSS Buttons, Free And Royalty Free. (6 days ago)
+- [kkoomen/pointless](https://github.com/kkoomen/pointless) - An endless drawing canvas desktop app made with Tauri (Rust) and React 🎨 ✍️ (1 week ago)
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes! (1 week ago)
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥A artistic &#34;twitter like&#34; community built on gin&#43;zinc&#43;vue&#43;ts 清新文艺微社区 (1 week ago)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (1 week ago)
