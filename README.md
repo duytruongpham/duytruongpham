@@ -14,9 +14,9 @@
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - pwint(&#34;OwO&#34;) (1 week ago)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (2 weeks ago)
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.  (2 weeks ago)
-- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications. (2 weeks ago)
+- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications. (3 weeks ago)
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google&#39;s Text-to-Image Neural Network, in Pytorch (4 weeks ago)
-- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (4 weeks ago)
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet (1 month ago)
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning (1 month ago)
 
 #### 👯 Check out some of my recent followers
