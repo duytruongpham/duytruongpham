@@ -8,7 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (2 days ago)
+- [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3  (today)
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (3 days ago)
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning (1 week ago)
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers (1 week ago)
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (4 weeks ago)
@@ -17,7 +18,6 @@
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - pwint(&#34;OwO&#34;) (1 month ago)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters (1 month ago)
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.  (1 month ago)
-- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
