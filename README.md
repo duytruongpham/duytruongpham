@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (1 day ago)
-- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (3 days ago)
+- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (2 days ago)
+- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (4 days ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 week ago)
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process (2 weeks ago)
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (2 weeks ago)
@@ -21,11 +21,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [cumsoft](https://github.com/cumsoft)
 - [aspindle](https://github.com/aspindle)
 - [LordsanteVenus](https://github.com/LordsanteVenus)
 - [about-github](https://github.com/about-github)
 - [resslerruntime](https://github.com/resslerruntime)
-- [blackstorm0514](https://github.com/blackstorm0514)
 
 #### 💬 Feedback
 
