@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (today)
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (4 days ago)
-- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (6 days ago)
+- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (1 day ago)
+- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (5 days ago)
+- [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (1 week ago)
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 week ago)
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process (2 weeks ago)
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. (3 weeks ago)
