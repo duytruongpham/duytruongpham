@@ -16,7 +16,7 @@
 - [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (2 weeks ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (3 weeks ago)
 - [HVML/PurC](https://github.com/HVML/PurC) - The prime HVML interpreter for C Language. (3 weeks ago)
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (4 weeks ago)
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 month ago)
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process (1 month ago)
 
 #### 👯 Check out some of my recent followers
