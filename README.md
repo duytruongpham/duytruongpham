@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) -  (1 day ago)
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (4 days ago)
+- [nv-tlabs/GET3D](https://github.com/nv-tlabs/GET3D) -  (2 days ago)
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (5 days ago)
 - [carson-katri/dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor (1 week ago)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (1 week ago)
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel (3 weeks ago)
