@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red &amp; Blue Team operations (1 day ago)
-- [WeAreMahsaAmini/Core](https://github.com/WeAreMahsaAmini/Core) - Woman, life, freedom (3 days ago)
-- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (4 days ago)
+- [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red &amp; Blue Team operations (2 days ago)
+- [WeAreMahsaAmini/Core](https://github.com/WeAreMahsaAmini/Core) - Woman, life, freedom (4 days ago)
+- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (5 days ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (1 week ago)
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝 (1 week ago)
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler (2 weeks ago)
