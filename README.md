@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (1 day ago)
+- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (2 days ago)
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal (1 week ago)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (1 week ago)
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2 weeks ago)
@@ -22,10 +22,10 @@
 #### 👯 Check out some of my recent followers
 
 - [peter-kimanzi](https://github.com/peter-kimanzi)
-- [cumsoft](https://github.com/cumsoft)
 - [aspindle](https://github.com/aspindle)
 - [LordsanteVenus](https://github.com/LordsanteVenus)
 - [about-github](https://github.com/about-github)
+- [resslerruntime](https://github.com/resslerruntime)
 
 #### 💬 Feedback
 
