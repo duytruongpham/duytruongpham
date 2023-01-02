@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (4 days ago)
+- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (5 days ago)
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal (1 week ago)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (2 weeks ago)
-- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2 weeks ago)
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (3 weeks ago)
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT (3 weeks ago)
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (1 month ago)
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) (1 month ago)
