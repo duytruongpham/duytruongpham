@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [midudev/kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos (today)
-- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (3 days ago)
+- [midudev/kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos (1 day ago)
+- [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (4 days ago)
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (1 week ago)
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal (2 weeks ago)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (3 weeks ago)
