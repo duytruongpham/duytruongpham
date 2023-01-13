@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -  (1 day ago)
-- [midudev/kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos (5 days ago)
+- [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -  (2 days ago)
+- [midudev/kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos (6 days ago)
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (1 week ago)
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (2 weeks ago)
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal (3 weeks ago)
