@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (today)
-- [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -  (5 days ago)
+- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (1 day ago)
+- [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -  (6 days ago)
 - [midudev/kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos (1 week ago)
 - [skyzh/mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP) (1 week ago)
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (2 weeks ago)
