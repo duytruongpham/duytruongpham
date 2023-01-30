@@ -8,14 +8,14 @@
 
 #### ⭐ Recent Stars
 
-- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (today)
-- [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (2 days ago)
-- [JonasGeiping/cramming](https://github.com/JonasGeiping/cramming) - Cramming the training of a (BERT-type) language model into limited compute. (3 days ago)
-- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source. (4 days ago)
-- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications (5 days ago)
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (6 days ago)
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (1 day ago)
+- [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (3 days ago)
+- [JonasGeiping/cramming](https://github.com/JonasGeiping/cramming) - Cramming the training of a (BERT-type) language model into limited compute. (4 days ago)
+- [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source. (5 days ago)
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications (6 days ago)
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 week ago)
 - [youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库 (1 week ago)
-- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (1 week ago)
+- [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. (2 weeks ago)
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) -  (2 weeks ago)
 - [midudev/kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos (3 weeks ago)
 
