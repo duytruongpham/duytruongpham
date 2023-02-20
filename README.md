@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft&#39;s Bing Chat (today)
-- [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android (1 day ago)
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (3 days ago)
-- [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (5 days ago)
+- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft&#39;s Bing Chat (1 day ago)
+- [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android (2 days ago)
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (4 days ago)
+- [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (6 days ago)
 - [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (1 week ago)
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (3 weeks ago)
 - [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (3 weeks ago)
