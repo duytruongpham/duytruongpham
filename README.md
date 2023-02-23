@@ -8,16 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft&#39;s Bing Chat (3 days ago)
-- [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android (4 days ago)
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (6 days ago)
+- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft&#39;s Bing Chat (4 days ago)
+- [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android (5 days ago)
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 week ago)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (1 week ago)
 - [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (2 weeks ago)
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (3 weeks ago)
 - [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (3 weeks ago)
-- [JonasGeiping/cramming](https://github.com/JonasGeiping/cramming) - Cramming the training of a (BERT-type) language model into limited compute. (3 weeks ago)
+- [JonasGeiping/cramming](https://github.com/JonasGeiping/cramming) - Cramming the training of a (BERT-type) language model into limited compute. (4 weeks ago)
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source. (4 weeks ago)
-- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications (4 weeks ago)
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
