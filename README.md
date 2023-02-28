@@ -8,14 +8,14 @@
 
 #### ⭐ Recent Stars
 
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (today)
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (2 days ago)
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (1 day ago)
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (3 days ago)
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft&#39;s Bing Chat (1 week ago)
 - [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android (1 week ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 week ago)
-- [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (1 week ago)
-- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (2 weeks ago)
-- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (4 weeks ago)
+- [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (2 weeks ago)
+- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) -  (3 weeks ago)
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim (1 month ago)
 - [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (1 month ago)
 - [JonasGeiping/cramming](https://github.com/JonasGeiping/cramming) - Cramming the training of a (BERT-type) language model into limited compute. (1 month ago)
 
