@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 days ago)
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (5 days ago)
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (4 days ago)
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (6 days ago)
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft&#39;s Bing Chat (1 week ago)
 - [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android (1 week ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (2 weeks ago)
