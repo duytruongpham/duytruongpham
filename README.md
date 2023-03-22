@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook&#39;s 65B parameter GPT model (5 days ago)
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine (today)
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI. (1 week ago)
-- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A &#39;CSS reset&#39; for TypeScript, improving types for common JavaScript API&#39;s (1 week ago)
+- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A &#39;CSS reset&#39; for TypeScript, improving types for common JavaScript API&#39;s (2 weeks ago)
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载 (2 weeks ago)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 weeks ago)
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis (3 weeks ago)
