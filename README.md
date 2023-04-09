@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model (2 days ago)
-- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT. (4 days ago)
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (6 days ago)
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model (3 days ago)
+- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT. (5 days ago)
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (1 week ago)
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (1 week ago)
 - [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐 (2 weeks ago)
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine (2 weeks ago)
