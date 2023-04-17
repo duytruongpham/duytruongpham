@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform (today)
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C&#43;&#43;项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能，兼容ChatGLM等本地模型 (5 days ago)
+- [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform (1 day ago)
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C&#43;&#43;项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能，兼容ChatGLM等本地模型 (6 days ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model (1 week ago)
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT. (1 week ago)
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (2 weeks ago)
