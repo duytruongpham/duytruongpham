@@ -8,11 +8,11 @@
 
 #### ⭐ Recent Stars
 
-- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (today)
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. (2 days ago)
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (1 day ago)
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. (3 days ago)
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform (1 week ago)
 - [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，模块化设计支持自定义快捷按钮&amp;函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C&#43;&#43;项目剖析&amp;自译解功能，PDF/LaTex论文翻译&amp;总结功能，支持并行问询多种LLM模型，支持gpt-3.5/gpt-4/chatglm (1 week ago)
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model (2 weeks ago)
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (2 weeks ago)
 - [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT. (2 weeks ago)
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (3 weeks ago)
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (3 weeks ago)
