@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter&#39;s Recommendation Algorithm (2 days ago)
-- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (4 days ago)
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. (6 days ago)
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter&#39;s Recommendation Algorithm (3 days ago)
+- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (5 days ago)
+- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. (1 week ago)
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform (1 week ago)
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&amp;函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C&#43;&#43;项目剖析&amp;自译解功能，PDF/LaTex论文翻译&amp;总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型 (2 weeks ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (3 weeks ago)
