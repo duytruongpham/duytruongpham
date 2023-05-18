@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [lamini-ai/lamini](https://github.com/lamini-ai/lamini) -  (5 days ago)
+- [lamini-ai/lamini](https://github.com/lamini-ai/lamini) -  (6 days ago)
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (1 week ago)
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) (1 week ago)
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (1 week ago)
