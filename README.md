@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人博士期间的科研经验 (1 day ago)
-- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool (2 days ago)
+- [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人博士期间的科研经验 (2 days ago)
+- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool (3 days ago)
 - [lamini-ai/lamini](https://github.com/lamini-ai/lamini) -  (1 week ago)
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (2 weeks ago)
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) (2 weeks ago)
@@ -21,11 +21,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [cumsoft](https://github.com/cumsoft)
 - [aspindle](https://github.com/aspindle)
 - [LordsanteVenus](https://github.com/LordsanteVenus)
 - [about-github](https://github.com/about-github)
 - [resslerruntime](https://github.com/resslerruntime)
+- [wolfwarrier14](https://github.com/wolfwarrier14)
 
 #### 💬 Feedback
 
