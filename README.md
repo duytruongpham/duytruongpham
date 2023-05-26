@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人博士期间的科研经验 (3 days ago)
-- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool (4 days ago)
-- [lamini-ai/lamini](https://github.com/lamini-ai/lamini) -  (1 week ago)
+- [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人博士期间的科研经验 (4 days ago)
+- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool (5 days ago)
+- [lamini-ai/lamini](https://github.com/lamini-ai/lamini) -  (2 weeks ago)
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning &amp; inference! (2 weeks ago)
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) (2 weeks ago)
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (2 weeks ago)
