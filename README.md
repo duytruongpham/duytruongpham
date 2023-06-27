@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (today)
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. (1 day ago)
-- [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware (2 days ago)
-- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡ (5 days ago)
+- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (1 day ago)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. (2 days ago)
+- [fractureiser-investigation/fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware (3 days ago)
+- [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡ (6 days ago)
 - [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) -  (1 week ago)
 - [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Unofficial Implementation of DragGAN - &#34;Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold&#34; （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux） (1 week ago)
 - [SamurAIGPT/privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 week ago)
@@ -25,7 +25,7 @@
 - [cumsoft](https://github.com/cumsoft)
 - [aspindle](https://github.com/aspindle)
 - [LordsanteVenus](https://github.com/LordsanteVenus)
-- [about-github](https://github.com/about-github)
+- [resslerruntime](https://github.com/resslerruntime)
 
 #### 💬 Feedback
 
