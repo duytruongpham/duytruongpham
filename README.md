@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (2 days ago)
-- [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model (4 days ago)
+- [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (3 days ago)
+- [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model (5 days ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 week ago)
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. (2 weeks ago)
 - [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58 (2 weeks ago)
