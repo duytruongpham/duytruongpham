@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.  (today)
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.  (1 day ago)
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) -  (1 week ago)
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior (1 week ago)
 - [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (2 weeks ago)
