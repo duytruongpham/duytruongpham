@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation (today)
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.  (6 days ago)
+- [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation (1 day ago)
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.  (1 week ago)
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) -  (2 weeks ago)
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior (2 weeks ago)
 - [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (3 weeks ago)
