@@ -8,12 +8,12 @@
 
 #### ⭐ Recent Stars
 
-- [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (3 days ago)
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (6 days ago)
+- [eddlez/litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份 (4 days ago)
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 week ago)
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (1 week ago)
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation (1 week ago)
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.  (2 weeks ago)
-- [brunodev85/winlator](https://github.com/brunodev85/winlator) -  (3 weeks ago)
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) -  (4 weeks ago)
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior (4 weeks ago)
 - [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) -  (1 month ago)
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model (1 month ago)
