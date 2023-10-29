@@ -8,11 +8,11 @@
 
 #### ⭐ Recent Stars
 
-- [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox. (1 day ago)
-- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).  (5 days ago)
-- [christina-de-martinez/babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) - the most goated babel plugin (6 days ago)
+- [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox. (2 days ago)
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).  (6 days ago)
+- [christina-de-martinez/babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) - the most goated babel plugin (1 week ago)
 - [ProjectUnifree/unifree](https://github.com/ProjectUnifree/unifree) -  (1 week ago)
-- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (1 week ago)
+- [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D. (2 weeks ago)
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model. (2 weeks ago)
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework (2 weeks ago)
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components (3 weeks ago)
