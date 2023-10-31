@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox. (3 days ago)
+- [0x48piraj/fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox. (4 days ago)
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).  (1 week ago)
 - [christina-de-martinez/babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) - the most goated babel plugin (1 week ago)
 - [ProjectUnifree/unifree](https://github.com/ProjectUnifree/unifree) -  (2 weeks ago)
