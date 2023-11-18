@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai (today)
-- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (3 days ago)
+- [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai (1 day ago)
+- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (4 days ago)
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website (1 week ago)
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 week ago)
 - [xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D) - Single Image to 3D using Cross-Domain Diffusion (1 week ago)
@@ -25,7 +25,7 @@
 - [cumsoft](https://github.com/cumsoft)
 - [LordsanteVenus](https://github.com/LordsanteVenus)
 - [resslerruntime](https://github.com/resslerruntime)
-- [wolfwarrier14](https://github.com/wolfwarrier14)
+- [notmariekondo](https://github.com/notmariekondo)
 
 #### 💬 Feedback
 
