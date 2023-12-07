@@ -8,11 +8,11 @@
 
 #### ⭐ Recent Stars
 
-- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (today)
-- [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - &#34;Resistance is futile!&#34; (5 days ago)
+- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (1 day ago)
+- [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - &#34;Resistance is futile!&#34; (6 days ago)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 week ago)
 - [openai/consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE (1 week ago)
-- [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community (1 week ago)
+- [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community (2 weeks ago)
 - [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate. (2 weeks ago)
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai (2 weeks ago)
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (3 weeks ago)
