@@ -8,7 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (2 days ago)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning (today)
+- [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (3 days ago)
 - [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - &#34;Resistance is futile!&#34; (1 week ago)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 week ago)
 - [openai/consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE (2 weeks ago)
@@ -17,7 +18,6 @@
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai (3 weeks ago)
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (3 weeks ago)
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website (4 weeks ago)
-- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
