@@ -9,7 +9,7 @@
 #### ⭐ Recent Stars
 
 - [krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) -  (1 week ago)
-- [guoqincode/AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial) - Unofficial Implementation of Animate Anyone (1 week ago)
+- [guoqincode/Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone (1 week ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (1 week ago)
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond (3 weeks ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning (3 weeks ago)
@@ -22,10 +22,10 @@
 #### 👯 Check out some of my recent followers
 
 - [glwuyuan](https://github.com/glwuyuan)
+- [cumsoft](https://github.com/cumsoft)
 - [LordsanteVenus](https://github.com/LordsanteVenus)
 - [resslerruntime](https://github.com/resslerruntime)
 - [wolfwarrier14](https://github.com/wolfwarrier14)
-- [notmariekondo](https://github.com/notmariekondo)
 
 #### 💬 Feedback
 
