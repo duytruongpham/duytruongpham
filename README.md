@@ -8,7 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [moturus/motor-os](https://github.com/moturus/motor-os) -  (today)
+- [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard (today)
+- [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud. (1 day ago)
 - [krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) -  (3 weeks ago)
 - [guoqincode/Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone (3 weeks ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (3 weeks ago)
@@ -17,7 +18,6 @@
 - [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (1 month ago)
 - [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - &#34;Resistance is futile!&#34; (1 month ago)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 month ago)
-- [openai/consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
