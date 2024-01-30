@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger. (2 days ago)
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger. (3 days ago)
 - [DLYuanGod/TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones (1 week ago)
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard (1 week ago)
-- [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud. (1 week ago)
+- [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud. (2 weeks ago)
 - [krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) -  (1 month ago)
 - [guoqincode/Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone (1 month ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (1 month ago)
