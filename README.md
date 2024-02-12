@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (6 days ago)
+- [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (1 week ago)
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (1 week ago)
 - [AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) -  (1 week ago)
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger. (2 weeks ago)
