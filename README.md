@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (today)
-- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation (5 days ago)
-- [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (1 week ago)
+- [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 day ago)
+- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation (6 days ago)
+- [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (2 weeks ago)
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (2 weeks ago)
 - [AIGCDesignGroup/ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) -  (2 weeks ago)
 - [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger. (3 weeks ago)
