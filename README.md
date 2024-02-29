@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets (3 days ago)
-- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (4 days ago)
-- [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization. (5 days ago)
+- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets (4 days ago)
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android (5 days ago)
+- [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization. (6 days ago)
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy. (1 week ago)
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation (2 weeks ago)
 - [vnglst/pong-wars](https://github.com/vnglst/pong-wars) -  (3 weeks ago)
