@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (2 days ago)
-- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google&#39;s Gemma models (4 days ago)
-- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) -  (6 days ago)
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! (3 days ago)
+- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google&#39;s Gemma models (5 days ago)
+- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) -  (1 week ago)
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online. (1 week ago)
 - [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video. (1 week ago)
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。 (2 weeks ago)
