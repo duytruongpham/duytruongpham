@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) (today)
-- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing (3 days ago)
+- [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) (1 day ago)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing (4 days ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (1 week ago)
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 15.95% tasks in full SWE-bench (1 week ago)
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for &#34;Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models&#34; (1 week ago)
