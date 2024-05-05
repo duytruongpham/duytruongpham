@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (today)
-- [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. (1 day ago)
-- [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps (5 days ago)
-- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free (6 days ago)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 day ago)
+- [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. (2 days ago)
+- [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps (6 days ago)
+- [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free (1 week ago)
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) (1 week ago)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing (1 week ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (2 weeks ago)
