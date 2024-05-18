@@ -8,8 +8,9 @@
 
 #### ⭐ Recent Stars
 
+- [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js. (today)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 week ago)
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 week ago)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (2 weeks ago)
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. (2 weeks ago)
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps (2 weeks ago)
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free (2 weeks ago)
@@ -17,7 +18,6 @@
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing (3 weeks ago)
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler (C/C&#43;&#43;, Go, Rust, Python, Java, NodeJS, PHP, Ruby, Perl, ...) (4 weeks ago)
 - [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 15.95% tasks in full SWE-bench (1 month ago)
-- [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for &#34;Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models&#34; (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
