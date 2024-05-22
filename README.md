@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) -  (1 day ago)
-- [GenevieveMulligan352/darknet-markets](https://github.com/GenevieveMulligan352/darknet-markets) - . verified and official .  (2 days ago)
-- [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js. (3 days ago)
+- [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) -  (2 days ago)
+- [GenevieveMulligan352/darknet-markets](https://github.com/GenevieveMulligan352/darknet-markets) - . verified and official .  (3 days ago)
+- [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js. (4 days ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 weeks ago)
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (2 weeks ago)
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. (2 weeks ago)
