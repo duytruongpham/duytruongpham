@@ -8,12 +8,12 @@
 
 #### ⭐ Recent Stars
 
-- [IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 (today)
+- [IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 (1 day ago)
 - [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) -  (1 week ago)
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js. (1 week ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (3 weeks ago)
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (3 weeks ago)
-- [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. (3 weeks ago)
+- [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. (4 weeks ago)
 - [tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps (1 month ago)
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free (1 month ago)
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) (1 month ago)
