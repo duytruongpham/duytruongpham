@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scrapper (3 days ago)
-- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (5 days ago)
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scrapper (4 days ago)
+- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (6 days ago)
 - [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) -  (1 week ago)
 - [IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 (1 week ago)
 - [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) -  (3 weeks ago)
