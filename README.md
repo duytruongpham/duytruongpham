@@ -8,8 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [WasperAI/Wasper](https://github.com/WasperAI/Wasper) -  (1 day ago)
-- [THUDM/GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型 (3 days ago)
+- [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data &amp; AI (today)
+- [WasperAI/Wasper](https://github.com/WasperAI/Wasper) -  (2 days ago)
+- [THUDM/GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型 (4 days ago)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scrapper (1 week ago)
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (1 week ago)
 - [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) -  (1 week ago)
@@ -17,7 +18,6 @@
 - [X-LANCE/AniTalker](https://github.com/X-LANCE/AniTalker) -  (3 weeks ago)
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js. (4 weeks ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 month ago)
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
