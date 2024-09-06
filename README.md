@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [Saikun1/1win-auto](https://github.com/Saikun1/1win-auto) - crypto cryptocurrency 1win 1win-token 1win-bot 1win-clicker 1win-autofarm 1win-bot-clicker 1win-bot-autofarm 1win-bot-download 1win-clicker-autofarm 1win-clicker-free 1win-auto-bot 1win-auto-farm 1win-auto 1win-auto-tap  (today)
-- [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs (4 days ago)
+- [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (today)
+- [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs (5 days ago)
 - [FestingerVault/festingervault](https://github.com/FestingerVault/festingervault) - Get access to 25K&#43; kick-ass premium #WordPress themes and plugins. Now directly from your WP dashboard. (1 week ago)
-- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (1 week ago)
+- [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (2 weeks ago)
 - [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert_dylib and ChOma. (3 weeks ago)
 - [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (1 month ago)
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
