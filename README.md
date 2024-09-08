@@ -8,8 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (1 day ago)
-- [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs (6 days ago)
+- [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows (today)
+- [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (2 days ago)
+- [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs (1 week ago)
 - [FestingerVault/festingervault](https://github.com/FestingerVault/festingervault) - Get access to 25K&#43; kick-ass premium #WordPress themes and plugins. Now directly from your WP dashboard. (1 week ago)
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥 (2 weeks ago)
 - [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert_dylib and ChOma. (3 weeks ago)
@@ -17,7 +18,6 @@
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents (1 month ago)
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait (1 month ago)
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model (1 month ago)
-- [adrianhajdin/healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
