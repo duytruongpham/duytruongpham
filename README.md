@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (today)
-- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) -  (1 day ago)
-- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (2 days ago)
-- [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. (5 days ago)
+- [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (1 day ago)
+- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) -  (2 days ago)
+- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (3 days ago)
+- [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. (6 days ago)
 - [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows (1 week ago)
 - [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (1 week ago)
 - [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs (2 weeks ago)
