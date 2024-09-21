@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (3 days ago)
-- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) -  (4 days ago)
-- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (5 days ago)
+- [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (4 days ago)
+- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) -  (5 days ago)
+- [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (6 days ago)
 - [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. (1 week ago)
 - [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows (1 week ago)
 - [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (2 weeks ago)
