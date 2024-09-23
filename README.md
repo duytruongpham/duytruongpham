@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source DataDog &#43; PostHog for AI agents / RAG apps. Fast, reliable and insightful. Written in Rust 🦀. YC S24. (today)
-- [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (5 days ago)
-- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) -  (6 days ago)
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source DataDog &#43; PostHog for AI agents / RAG apps. Fast, reliable and insightful. Written in Rust 🦀. YC S24. (1 day ago)
+- [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (6 days ago)
+- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) -  (1 week ago)
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (1 week ago)
 - [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. (1 week ago)
 - [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) - Creates shortcuts to virtually every special location or action built into Windows (2 weeks ago)
