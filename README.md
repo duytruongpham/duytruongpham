@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source DataDog &#43; PostHog for AI agents / RAG apps. Fast, reliable and insightful. Written in Rust 🦀. YC S24. (2 days ago)
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source DataDog &#43; PostHog for AI agents / RAG apps. Fast, reliable and insightful. Written in Rust 🦀. YC S24. (3 days ago)
 - [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (1 week ago)
 - [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) -  (1 week ago)
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday. (1 week ago)
