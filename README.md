@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [HiveSpaceAI/HiveSpace](https://github.com/HiveSpaceAI/HiveSpace) -  (3 days ago)
-- [SoundLineDev/SoundLine](https://github.com/SoundLineDev/SoundLine) -  (4 days ago)
+- [HiveSpaceAI/HiveSpace](https://github.com/HiveSpaceAI/HiveSpace) -  (4 days ago)
+- [SoundLineDev/SoundLine](https://github.com/SoundLineDev/SoundLine) -  (5 days ago)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. (1 week ago)
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery (1 week ago)
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source DataDog &#43; PostHog for AI agents / RAG apps. Fast, reliable and insightful. Written in Rust 🦀. YC S24. (2 weeks ago)
