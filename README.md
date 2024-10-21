@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) -  (2 days ago)
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (3 days ago)
+- [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) -  (3 days ago)
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (4 days ago)
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (1 week ago)
 - [HiveSpaceAI/HiveSpace](https://github.com/HiveSpaceAI/HiveSpace) -  (2 weeks ago)
 - [SoundLineDev/SoundLine](https://github.com/SoundLineDev/SoundLine) -  (2 weeks ago)
