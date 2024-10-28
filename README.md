@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [MahmoudShawkyy/CrystalTool](https://github.com/MahmoudShawkyy/CrystalTool) - Crypto Wallet Cracker is a powerful tool for cracking cryptocurrency wallet passwords by brute force. It is designed to systematically brute force all possible password combinations until the correct one is found, allowing unauthorized access to the wallet. (1 day ago)
-- [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (4 days ago)
+- [AdeiltonPereiraAlves/BlazingTool](https://github.com/AdeiltonPereiraAlves/BlazingTool) - Brute force ethereum wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for Ethereum networks. If a wallet with a non-zero balance is found, the wallet&#39;s information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt. (today)
+- [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (5 days ago)
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs. (1 week ago)
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (1 week ago)
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (2 weeks ago)
