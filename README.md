@@ -8,16 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [AdeiltonPereiraAlves/BlazingTool](https://github.com/AdeiltonPereiraAlves/BlazingTool) - Brute force ethereum wallet mnemonics. Multi-threaded and suprisingly fast. automatically generate seed phrases and check balances for Ethereum networks. If a wallet with a non-zero balance is found, the wallet&#39;s information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt. (today)
-- [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (5 days ago)
+- [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (6 days ago)
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs. (1 week ago)
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (1 week ago)
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (2 weeks ago)
 - [HiveSpaceAI/HiveSpace](https://github.com/HiveSpaceAI/HiveSpace) -  (3 weeks ago)
 - [SoundLineDev/SoundLine](https://github.com/SoundLineDev/SoundLine) -  (3 weeks ago)
-- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. (3 weeks ago)
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. (4 weeks ago)
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery (1 month ago)
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source data flywheel platform for LLM apps. Fast and reliable. Written in Rust 🦀. YC S24. (1 month ago)
+- [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
