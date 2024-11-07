@@ -8,16 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [malwisp/SoLBF](https://github.com/malwisp/SoLBF) - Solana Bruteforce script that uses the cluster module to create multiple worker processes to generate random Solana keypairs and check if the public address corresponding to the private key is in a Set of addresses read from data.txt (4 days ago)
-- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (6 days ago)
+- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (1 week ago)
 - [fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2) - Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation (1 week ago)
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (2 weeks ago)
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs. (2 weeks ago)
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (2 weeks ago)
-- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (3 weeks ago)
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (3 weeks ago)
+- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (4 weeks ago)
 - [HiveSpaceAI/HiveSpace](https://github.com/HiveSpaceAI/HiveSpace) -  (1 month ago)
 - [SoundLineDev/SoundLine](https://github.com/SoundLineDev/SoundLine) -  (1 month ago)
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. (1 month ago)
+- [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
