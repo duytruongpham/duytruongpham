@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [sergiorios97/Aigaea-Bot](https://github.com/sergiorios97/Aigaea-Bot) - Aigaea-Reger Aigaea-Farmer Aigaea-Miner Aigaea-Multireger Aigaea-Multifarmer Aigaea-Extension-Bot Aigaea-Bot Aigaea-Multiwallet Aigaea-AutoFarm Aigaea-multibot Aigaea-software Aigaea-BotMiner (3 days ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (4 days ago)
+- [sergiorios97/Aigaea-Bot](https://github.com/sergiorios97/Aigaea-Bot) - Aigaea-Reger Aigaea-Farmer Aigaea-Miner Aigaea-Multireger Aigaea-Multifarmer Aigaea-Extension-Bot Aigaea-Bot Aigaea-Multiwallet Aigaea-AutoFarm Aigaea-multibot Aigaea-software Aigaea-BotMiner (4 days ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (5 days ago)
 - [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (2 weeks ago)
 - [fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2) - Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation (2 weeks ago)
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (3 weeks ago)
