@@ -8,16 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [sergiorios97/Aigaea-Bot](https://github.com/sergiorios97/Aigaea-Bot) - Aigaea-Reger Aigaea-Farmer Aigaea-Miner Aigaea-Multireger Aigaea-Multifarmer Aigaea-Extension-Bot Aigaea-Bot Aigaea-Multiwallet Aigaea-AutoFarm Aigaea-multibot Aigaea-software Aigaea-BotMiner (5 days ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 days ago)
-- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (2 weeks ago)
+- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (today)
+- [sergiorios97/Aigaea-Bot](https://github.com/sergiorios97/Aigaea-Bot) - Aigaea-Reger Aigaea-Farmer Aigaea-Miner Aigaea-Multireger Aigaea-Multifarmer Aigaea-Extension-Bot Aigaea-Bot Aigaea-Multiwallet Aigaea-AutoFarm Aigaea-multibot Aigaea-software Aigaea-BotMiner (6 days ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
+- [AgibotTech/agibot_x1_infer](https://github.com/AgibotTech/agibot_x1_infer) - The inference module for AgiBot X1. (3 weeks ago)
 - [fudan-generative-vision/hallo2](https://github.com/fudan-generative-vision/hallo2) - Hallo2: Long-Duration and High-Resolution Audio-driven Portrait Image Animation (3 weeks ago)
 - [baaivision/Emu3](https://github.com/baaivision/Emu3) - Next-Token Prediction is All You Need (4 weeks ago)
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs. (1 month ago)
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) -  (1 month ago)
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes files for quick, seamless access and easy retrieval. (1 month ago)
 - [HiveSpaceAI/HiveSpace](https://github.com/HiveSpaceAI/HiveSpace) -  (1 month ago)
-- [SoundLineDev/SoundLine](https://github.com/SoundLineDev/SoundLine) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
