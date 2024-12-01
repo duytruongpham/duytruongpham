@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M (3 days ago)
+- [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M (4 days ago)
 - [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook (1 week ago)
 - [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (1 week ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 weeks ago)
