@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI. (today)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 day ago)
+- [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI. (1 day ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 days ago)
 - [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning (1 week ago)
 - [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill) - Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System (1 week ago)
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead. (1 week ago)
@@ -23,9 +23,9 @@
 
 - [snow9422](https://github.com/snow9422)
 - [jelspace](https://github.com/jelspace)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Connor9994](https://github.com/Connor9994)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
+- [ishandutta2007](https://github.com/ishandutta2007)
 
 #### 💬 Feedback
 
