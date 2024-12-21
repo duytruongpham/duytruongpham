@@ -8,24 +8,24 @@
 
 #### ⭐ Recent Stars
 
-- [xoofx/ultra](https://github.com/xoofx/ultra) - An advanced profiler for .NET Applications on Windows (3 days ago)
-- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN) (4 days ago)
-- [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI. (6 days ago)
+- [xoofx/ultra](https://github.com/xoofx/ultra) - An advanced profiler for .NET Applications on Windows (4 days ago)
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN) (5 days ago)
+- [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI. (1 week ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 week ago)
 - [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning (2 weeks ago)
 - [magic-quill/MagicQuill](https://github.com/magic-quill/MagicQuill) - Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System (2 weeks ago)
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead. (2 weeks ago)
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M (3 weeks ago)
 - [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook (4 weeks ago)
-- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (4 weeks ago)
+- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [AdeiltonPereiraAlves](https://github.com/AdeiltonPereiraAlves)
 - [snow9422](https://github.com/snow9422)
 - [jelspace](https://github.com/jelspace)
 - [Connor9994](https://github.com/Connor9994)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
-- [ishandutta2007](https://github.com/ishandutta2007)
 
 #### 💬 Feedback
 
