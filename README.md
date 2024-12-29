@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图 (2 days ago)
-- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (4 days ago)
-- [google-gemini/multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) - A react-based starter app for using the Multimodal Live API over websockets with Gemini (6 days ago)
+- [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图 (3 days ago)
+- [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (5 days ago)
+- [google-gemini/multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) - A react-based starter app for using the Multimodal Live API over websockets with Gemini (1 week ago)
 - [xoofx/ultra](https://github.com/xoofx/ultra) - An advanced profiler for .NET Applications on Windows (1 week ago)
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN) (1 week ago)
 - [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI. (2 weeks ago)
