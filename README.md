@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [nesaorg/nesa](https://github.com/nesaorg/nesa) - Run AI models end-to-end encrypted. (today)
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple&#39;s &#34;Find My&#34; network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! (5 days ago)
+- [nesaorg/nesa](https://github.com/nesaorg/nesa) - Run AI models end-to-end encrypted. (1 day ago)
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple&#39;s &#34;Find My&#34; network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! (6 days ago)
 - [lvwzhen/medicine](https://github.com/lvwzhen/medicine) - 原研药列表 (1 week ago)
 - [facebookresearch/large_concept_model](https://github.com/facebookresearch/large_concept_model) - Large Concept Models: Language modeling in a sentence representation space (1 week ago)
 - [SkalskiP/vlms-zero-to-hero](https://github.com/SkalskiP/vlms-zero-to-hero) - This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language Models. (1 week ago)
