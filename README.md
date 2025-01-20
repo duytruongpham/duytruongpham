@@ -8,14 +8,14 @@
 
 #### ⭐ Recent Stars
 
-- [nesaorg/nesa](https://github.com/nesaorg/nesa) - Run AI models end-to-end encrypted. (1 day ago)
-- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple&#39;s &#34;Find My&#34; network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! (6 days ago)
+- [nesaorg/nesa](https://github.com/nesaorg/nesa) - Run AI models end-to-end encrypted. (2 days ago)
+- [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple&#39;s &#34;Find My&#34; network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! (1 week ago)
 - [lvwzhen/medicine](https://github.com/lvwzhen/medicine) - 原研药列表 (1 week ago)
 - [facebookresearch/large_concept_model](https://github.com/facebookresearch/large_concept_model) - Large Concept Models: Language modeling in a sentence representation space (1 week ago)
 - [SkalskiP/vlms-zero-to-hero](https://github.com/SkalskiP/vlms-zero-to-hero) - This series will take you on a journey from the fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language Models. (1 week ago)
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace &#39;hub&#39; with &#39;diagram&#39; in any GitHub url to instantly visualize the codebase as an interactive diagram (2 weeks ago)
 - [deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) - DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding (2 weeks ago)
-- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (2 weeks ago)
+- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (3 weeks ago)
 - [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图 (3 weeks ago)
 - [BeeSyncAI/BeeSync](https://github.com/BeeSyncAI/BeeSync) -  (3 weeks ago)
 
