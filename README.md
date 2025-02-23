@@ -8,6 +8,7 @@
 
 #### ⭐ Recent Stars
 
+- [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具 (today)
 - [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data (1 week ago)
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) (1 week ago)
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data (1 week ago)
@@ -17,7 +18,6 @@
 - [Ackites/Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 (1 month ago)
 - [nesaorg/nesa](https://github.com/nesaorg/nesa) - Run AI models end-to-end encrypted. (1 month ago)
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple&#39;s &#34;Find My&#34; network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required! (1 month ago)
-- [lvwzhen/medicine](https://github.com/lvwzhen/medicine) - 原研药列表 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
