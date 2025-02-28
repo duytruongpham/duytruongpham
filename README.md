@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (2 days ago)
-- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers. (3 days ago)
-- [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具 (4 days ago)
-- [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data (1 week ago)
+- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (3 days ago)
+- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers. (4 days ago)
+- [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具 (5 days ago)
+- [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data (2 weeks ago)
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) (2 weeks ago)
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data (2 weeks ago)
 - [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course) - AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks (3 weeks ago)
