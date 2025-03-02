@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (today)
-- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (4 days ago)
-- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers. (5 days ago)
-- [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具 (6 days ago)
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 day ago)
+- [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (5 days ago)
+- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers. (6 days ago)
+- [liseami/DeepRant](https://github.com/liseami/DeepRant) - -游戏文字交流AI嘴强王者工具 (1 week ago)
 - [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data (2 weeks ago)
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget) (2 weeks ago)
 - [OpenHealthForAll/open-health](https://github.com/OpenHealthForAll/open-health) - OpenHealth, AI Health Assistant | Powered by Your Data (2 weeks ago)
