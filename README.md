@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation (2 days ago)
+- [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation (3 days ago)
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model (1 week ago)
 - [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - Research papers and blogs to transition to AI Engineering (1 week ago)
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Training released! Surpasses GPT-4o in ID persistence! Official ComfyUI workflow release! Only 4GB VRAM is enough to run!  (1 week ago)
