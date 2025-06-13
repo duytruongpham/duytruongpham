@@ -8,13 +8,13 @@
 
 #### ⭐ Recent Stars
 
-- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers (1 day ago)
-- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (2 days ago)
+- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers (2 days ago)
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (3 days ago)
 - [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation (1 week ago)
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model (2 weeks ago)
 - [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - Research papers and blogs to transition to AI Engineering (2 weeks ago)
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Training released! Surpasses GPT-4o in ID persistence! Official ComfyUI workflow release! Only 4GB VRAM is enough to run!  (2 weeks ago)
-- [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0) (2 weeks ago)
+- [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0) (3 weeks ago)
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web (3 weeks ago)
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass. (3 weeks ago)
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana (1 month ago)
