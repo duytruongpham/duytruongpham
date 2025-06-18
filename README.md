@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [safety-research/circuit-tracer](https://github.com/safety-research/circuit-tracer) -  (today)
-- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (1 day ago)
-- [TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025](https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025) - Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features. (3 days ago)
-- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers (6 days ago)
+- [safety-research/circuit-tracer](https://github.com/safety-research/circuit-tracer) -  (1 day ago)
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (2 days ago)
+- [TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025](https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025) - Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features. (4 days ago)
+- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers (1 week ago)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (1 week ago)
 - [Tencent-Hunyuan/HunyuanCustom](https://github.com/Tencent-Hunyuan/HunyuanCustom) - HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation (2 weeks ago)
 - [ace-step/ACE-Step](https://github.com/ace-step/ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model (3 weeks ago)
