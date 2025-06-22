@@ -8,11 +8,11 @@
 
 #### ⭐ Recent Stars
 
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (today)
-- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (1 day ago)
-- [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc. (2 days ago)
-- [safety-research/circuit-tracer](https://github.com/safety-research/circuit-tracer) -  (4 days ago)
-- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (5 days ago)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 day ago)
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis (2 days ago)
+- [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus) - An open source alternative to Google Drive, One Drive, iCloud, etc. (3 days ago)
+- [safety-research/circuit-tracer](https://github.com/safety-research/circuit-tracer) -  (5 days ago)
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM (6 days ago)
 - [TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025](https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025) - Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features. (1 week ago)
 - [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Open-source Multi-agent Poster Generation from Papers (1 week ago)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (1 week ago)
@@ -23,9 +23,9 @@
 
 - [mdShumon8](https://github.com/mdShumon8)
 - [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
 - [standardgalactic](https://github.com/standardgalactic)
 - [GitHub7667](https://github.com/GitHub7667)
+- [AdeiltonPereiraAlves](https://github.com/AdeiltonPereiraAlves)
 
 #### 💬 Feedback
 
