@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (today)
-- [rizethereum/claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) -  (3 days ago)
-- [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor (1 week ago)
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (1 day ago)
+- [rizethereum/claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) -  (4 days ago)
+- [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor (2 weeks ago)
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) -  (2 weeks ago)
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) -  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches. (2 weeks ago)
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (2 weeks ago)
