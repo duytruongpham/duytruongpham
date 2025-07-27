@@ -8,12 +8,12 @@
 
 #### ⭐ Recent Stars
 
-- [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code. (today)
-- [zimplexing/OrionTV](https://github.com/zimplexing/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。 (1 day ago)
-- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (5 days ago)
+- [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code. (1 day ago)
+- [zimplexing/OrionTV](https://github.com/zimplexing/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。 (2 days ago)
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (6 days ago)
 - [rizethereum/claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) -  (1 week ago)
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor (2 weeks ago)
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) -  (2 weeks ago)
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) -  (3 weeks ago)
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) -  This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches. (3 weeks ago)
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (3 weeks ago)
 - [Tencent-Hunyuan/Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material (3 weeks ago)
