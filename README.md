@@ -12,7 +12,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code (1 week ago)
 - [LLM-Red-Team/kimi-cc](https://github.com/LLM-Red-Team/kimi-cc) - Use Kimi latest model(kimi-k2-0711-preview) to drive your Claude Code. (2 weeks ago)
 - [zimplexing/OrionTV](https://github.com/zimplexing/OrionTV) - 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。 (2 weeks ago)
-- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (2 weeks ago)
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (3 weeks ago)
 - [rizethereum/claude-code-requirements-builder](https://github.com/rizethereum/claude-code-requirements-builder) -  (3 weeks ago)
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor (1 month ago)
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) -  (1 month ago)
