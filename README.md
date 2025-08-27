@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (3 days ago)
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (5 days ago)
 - [Tencent-Hunyuan/HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) - Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels with Hunyuan3D World Model (1 week ago)
 - [jd-opensource/joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体 (1 week ago)
 - [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。 (3 weeks ago)
