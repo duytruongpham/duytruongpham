@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (6 days ago)
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (1 week ago)
 - [growchief/growchief](https://github.com/growchief/growchief) - The Ultimate all-in social media automation (outreach) tool 🤖 (1 week ago)
 - [TencentCloudADP/youtu-agent](https://github.com/TencentCloudADP/youtu-agent) - A simple yet powerful agent framework that delivers with open-source models (1 week ago)
 - [Sumanth077/ai-engineering-toolkit](https://github.com/Sumanth077/ai-engineering-toolkit) - A curated list of 100&#43; libraries and frameworks for AI engineers building with LLMs (1 week ago)
