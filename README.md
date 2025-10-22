@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of &#34;Diffusion Transformers with Representation Autoencoders&#34; (1 day ago)
-- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (3 days ago)
+- [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of &#34;Diffusion Transformers with Representation Autoencoders&#34; (2 days ago)
+- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (4 days ago)
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (2 weeks ago)
 - [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. (2 weeks ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (2 weeks ago)
