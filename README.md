@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (1 day ago)
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (2 days ago)
 - [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers (1 week ago)
 - [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of &#34;Diffusion Transformers with Representation Autoencoders&#34; (2 weeks ago)
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (2 weeks ago)
