@@ -8,11 +8,11 @@
 
 #### ⭐ Recent Stars
 
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (2 days ago)
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (3 days ago)
 - [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers (1 week ago)
 - [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of &#34;Diffusion Transformers with Representation Autoencoders&#34; (2 weeks ago)
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (2 weeks ago)
-- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (4 weeks ago)
+- [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (1 month ago)
 - [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. (1 month ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 month ago)
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (1 month ago)
