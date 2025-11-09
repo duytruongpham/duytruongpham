@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) - 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution (1 day ago)
-- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (6 days ago)
-- [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers (1 week ago)
+- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) - 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution (2 days ago)
+- [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (1 week ago)
+- [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers (2 weeks ago)
 - [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of &#34;Diffusion Transformers with Representation Autoencoders&#34; (2 weeks ago)
 - [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (3 weeks ago)
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (1 month ago)
