@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 day ago)
-- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) - 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution (4 days ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 days ago)
+- [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) - 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution (5 days ago)
 - [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (1 week ago)
 - [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers (2 weeks ago)
 - [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of &#34;Diffusion Transformers with Representation Autoencoders&#34; (3 weeks ago)
