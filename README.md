@@ -8,8 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名 (2 days ago)
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (6 days ago)
+- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) - Native Multimodal Models are World Learners (today)
+- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名 (3 days ago)
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (1 week ago)
 - [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) - Pokee Deep Research Model Open Source Repo (1 week ago)
 - [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language (1 week ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 week ago)
@@ -17,7 +18,6 @@
 - [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK (2 weeks ago)
 - [showlab/Paper2Video](https://github.com/showlab/Paper2Video) - Automatic Video Generation from Scientific Papers (3 weeks ago)
 - [bytetriper/RAE](https://github.com/bytetriper/RAE) - Official PyTorch Implementation of &#34;Diffusion Transformers with Representation Autoencoders&#34; (1 month ago)
-- [rxi/sj.h](https://github.com/rxi/sj.h) - A tiny little JSON parsing library (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
