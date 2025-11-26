@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) - Native Multimodal Models are World Learners (3 days ago)
-- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名 (6 days ago)
+- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) - Native Multimodal Models are World Learners (4 days ago)
+- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名 (1 week ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (1 week ago)
 - [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) - Pokee Deep Research Model Open Source Repo (1 week ago)
 - [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language (1 week ago)
