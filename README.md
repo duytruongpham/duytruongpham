@@ -8,12 +8,12 @@
 
 #### ⭐ Recent Stars
 
-- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (2 days ago)
-- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) - Depth Anything 3 (6 days ago)
+- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (3 days ago)
+- [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) - Depth Anything 3 (1 week ago)
 - [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) - N8N Workflows Catalog (1 week ago)
-- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) - Native Multimodal Models are World Learners (1 week ago)
+- [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) - Native Multimodal Models are World Learners (2 weeks ago)
 - [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名 (2 weeks ago)
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (2 weeks ago)
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (3 weeks ago)
 - [Pokee-AI/PokeeResearchOSS](https://github.com/Pokee-AI/PokeeResearchOSS) - Pokee Deep Research Model Open Source Repo (3 weeks ago)
 - [liujuntao123/smart-excalidraw-next](https://github.com/liujuntao123/smart-excalidraw-next) - A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language (3 weeks ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (3 weeks ago)
@@ -23,9 +23,9 @@
 
 - [S4IL21](https://github.com/S4IL21)
 - [africahipopotomus-ux](https://github.com/africahipopotomus-ux)
-- [seckinyasar](https://github.com/seckinyasar)
 - [amazinginu](https://github.com/amazinginu)
 - [motanelson](https://github.com/motanelson)
+- [oluiscabral](https://github.com/oluiscabral)
 
 #### 💬 Feedback
 
