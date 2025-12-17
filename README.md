@@ -8,15 +8,15 @@
 
 #### ⭐ Recent Stars
 
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (1 day ago)
-- [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) -  (3 days ago)
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (2 days ago)
+- [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) -  (4 days ago)
 - [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: A leading lightweight video generation model (1 week ago)
 - [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) - High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 &amp; CVE-2025-66478) (1 week ago)
-- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (1 week ago)
+- [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (2 weeks ago)
 - [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3) - Depth Anything 3 (2 weeks ago)
 - [nusquama/n8nworkflows.xyz](https://github.com/nusquama/n8nworkflows.xyz) - N8N Workflows Catalog (2 weeks ago)
 - [baaivision/Emu3.5](https://github.com/baaivision/Emu3.5) - Native Multimodal Models are World Learners (3 weeks ago)
-- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名 (3 weeks ago)
+- [eooce/Auto-login-netlib](https://github.com/eooce/Auto-login-netlib) - 自动登录netlib.re网站保活域名 (4 weeks ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (1 month ago)
 
 #### 👯 Check out some of my recent followers
