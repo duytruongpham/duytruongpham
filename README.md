@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (2 days ago)
-- [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) -  (4 days ago)
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (3 days ago)
+- [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) -  (5 days ago)
 - [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: A leading lightweight video generation model (1 week ago)
 - [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) - High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 &amp; CVE-2025-66478) (1 week ago)
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (2 weeks ago)
