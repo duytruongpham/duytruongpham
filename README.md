@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪 (1 day ago)
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (5 days ago)
+- [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪 (2 days ago)
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (6 days ago)
 - [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) -  (1 week ago)
 - [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: A leading lightweight video generation model (1 week ago)
 - [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) - High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 &amp; CVE-2025-66478) (1 week ago)
@@ -21,11 +21,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [frieren-mage](https://github.com/frieren-mage)
 - [S4IL21](https://github.com/S4IL21)
 - [africahipopotomus-ux](https://github.com/africahipopotomus-ux)
 - [amazinginu](https://github.com/amazinginu)
 - [motanelson](https://github.com/motanelson)
-- [oluiscabral](https://github.com/oluiscabral)
 
 #### 💬 Feedback
 
