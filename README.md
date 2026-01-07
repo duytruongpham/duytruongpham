@@ -16,7 +16,7 @@
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (3 weeks ago)
 - [Tencent-Hunyuan/HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) -  (3 weeks ago)
 - [Tencent-Hunyuan/HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) - HunyuanVideo-1.5: A leading lightweight video generation model (4 weeks ago)
-- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) - High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 &amp; CVE-2025-66478) (4 weeks ago)
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner) - High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 &amp; CVE-2025-66478) (1 month ago)
 - [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - Rust Linux-compatible kernel (1 month ago)
 
 #### 👯 Check out some of my recent followers
