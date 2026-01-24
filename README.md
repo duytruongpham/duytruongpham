@@ -8,8 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交互式教程｜零基础也能学会的 AI 编程实战 (2 days ago)
-- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects (6 days ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (today)
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交互式教程｜零基础也能学会的 AI 编程实战 (3 days ago)
+- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects (1 week ago)
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. (1 week ago)
 - [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models (1 week ago)
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. (1 week ago)
@@ -17,15 +18,14 @@
 - [journey-ad/gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法 (3 weeks ago)
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&amp;智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌 (4 weeks ago)
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model &amp; Framework. Unlocking the AI Phone for Everyone (1 month ago)
-- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [hexarch](https://github.com/hexarch)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [S4IL21](https://github.com/S4IL21)
 - [africahipopotomus-ux](https://github.com/africahipopotomus-ux)
 - [amazinginu](https://github.com/amazinginu)
-- [motanelson](https://github.com/motanelson)
 
 #### 💬 Feedback
 
