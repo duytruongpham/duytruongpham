@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic&#39;s original performance take-home, now open for you to try! (4 days ago)
-- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (5 days ago)
+- [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic&#39;s original performance take-home, now open for you to try! (5 days ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (6 days ago)
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交互式教程｜零基础也能学会的 AI 编程实战 (1 week ago)
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects (1 week ago)
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. (2 weeks ago)
