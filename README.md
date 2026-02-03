@@ -21,11 +21,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [hexarch](https://github.com/hexarch)
 - [S4IL21](https://github.com/S4IL21)
 - [africahipopotomus-ux](https://github.com/africahipopotomus-ux)
 - [amazinginu](https://github.com/amazinginu)
 - [motanelson](https://github.com/motanelson)
+- [oluiscabral](https://github.com/oluiscabral)
 
 #### 💬 Feedback
 
