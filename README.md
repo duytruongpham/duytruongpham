@@ -9,9 +9,9 @@
 #### ⭐ Recent Stars
 
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic&#39;s original performance take-home, now open for you to try! (1 week ago)
-- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (1 week ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (2 weeks ago)
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - Vibe coding from 0 to 1 ｜把想法做成真正能上线的产品｜首个交互式教程｜零基础也能学会的 AI 编程实战 (2 weeks ago)
-- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects (2 weeks ago)
+- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects (3 weeks ago)
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. (3 weeks ago)
 - [deepseek-ai/Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models (3 weeks ago)
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. (3 weeks ago)
