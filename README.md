@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (4 days ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (5 days ago)
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere (1 week ago)
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 week ago)
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (2 weeks ago)
