@@ -8,8 +8,8 @@
 
 #### ⭐ Recent Stars
 
-- [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive) - AI Agent 源码深度研究报告 (2 days ago)
-- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） (5 days ago)
+- [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive) - AI Agent 源码深度研究报告 (3 days ago)
+- [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） (6 days ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (1 week ago)
 - [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - &#34;OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving&#34; -- Community: https://open-space.cloud/ (1 week ago)
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. (1 week ago)
