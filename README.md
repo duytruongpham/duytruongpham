@@ -8,15 +8,15 @@
 
 #### ⭐ Recent Stars
 
-- [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives (2 days ago)
-- [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG&#43;PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. (4 days ago)
-- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (5 days ago)
-- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 (6 days ago)
+- [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives (3 days ago)
+- [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG&#43;PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. (5 days ago)
+- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (6 days ago)
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 (1 week ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 week ago)
 - [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive) - AI Agent 源码深度研究报告 (2 weeks ago)
 - [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) - Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） (2 weeks ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (2 weeks ago)
-- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - &#34;OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving&#34; -- Community: https://open-space.cloud/ (2 weeks ago)
+- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - &#34;OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving&#34; -- Community: https://open-space.cloud/ (3 weeks ago)
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
