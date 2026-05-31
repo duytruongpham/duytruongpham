@@ -8,12 +8,12 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega) - [CVPR 2026 Oral] VGGT Omega (1 day ago)
-- [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (2 days ago)
+- [facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega) - [CVPR 2026 Oral] VGGT Omega (2 days ago)
+- [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (3 days ago)
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (1 week ago)
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (1 week ago)
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping (2 weeks ago)
-- [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT. (2 weeks ago)
+- [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT. (3 weeks ago)
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World&#39;s largest GPT Image 2 prompt library, updated daily — 2000&#43; curated prompts with preview images, 16 languages. OpenAI&#39;s next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free &amp; open source. (3 weeks ago)
 - [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives (4 weeks ago)
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG&#43;PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns. (1 month ago)
