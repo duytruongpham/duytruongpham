@@ -8,9 +8,9 @@
 
 #### ⭐ Recent Stars
 
-- [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 (today)
-- [WUBING2023/PaperSpine](https://github.com/WUBING2023/PaperSpine) - PaperSpine is a motivation-driven skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits. (1 day ago)
-- [facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega) - [CVPR 2026 Oral] VGGT Omega (6 days ago)
+- [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景 (1 day ago)
+- [WUBING2023/PaperSpine](https://github.com/WUBING2023/PaperSpine) - PaperSpine is a motivation-driven skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits. (2 days ago)
+- [facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega) - [CVPR 2026 Oral] VGGT Omega (1 week ago)
 - [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) -  (1 week ago)
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do (1 week ago)
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi&#39;s open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. (2 weeks ago)
