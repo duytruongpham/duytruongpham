@@ -8,7 +8,7 @@
 
 #### ⭐ Recent Stars
 
-- [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model (6 days ago)
+- [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model (1 week ago)
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents (1 week ago)
 - [yaojingang/yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Yao Open Prompts: A Chinese-language AI prompt library for work, learning, content, marketing, and everyday life. (1 week ago)
 - [WUBING2023/PaperSpine](https://github.com/WUBING2023/PaperSpine) - PaperSpine is a motivation-driven skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits. (1 week ago)
