@@ -8,10 +8,10 @@
 
 #### ⭐ Recent Stars
 
-- [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for coding agents (today)
-- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 &#43; Private Cloud Compute 云端)· macOS 27 / Apple Silicon (2 days ago)
-- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor. (1 week ago)
-- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (1 week ago)
+- [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for coding agents (1 day ago)
+- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 &#43; Private Cloud Compute 云端)· macOS 27 / Apple Silicon (3 days ago)
+- [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM wiki (1 week ago)
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (2 weeks ago)
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex (2 weeks ago)
 - [b-nnett/goose](https://github.com/b-nnett/goose) - Goose Swift proof-of-concept README (2 weeks ago)
 - [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model (1 month ago)
