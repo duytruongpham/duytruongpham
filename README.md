@@ -8,12 +8,12 @@
 
 #### ⭐ Recent Stars
 
-- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (1 day ago)
-- [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for coding agents (3 days ago)
-- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 &#43; Private Cloud Compute 云端)· macOS 27 / Apple Silicon (5 days ago)
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (2 days ago)
+- [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for coding agents (4 days ago)
+- [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 &#43; Private Cloud Compute 云端)· macOS 27 / Apple Silicon (6 days ago)
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown editor and LLM wiki (1 week ago)
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (2 weeks ago)
-- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex (2 weeks ago)
+- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex (3 weeks ago)
 - [b-nnett/goose](https://github.com/b-nnett/goose) - Goose Swift proof-of-concept README (3 weeks ago)
 - [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model (1 month ago)
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents (1 month ago)
