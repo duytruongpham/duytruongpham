@@ -8,16 +8,16 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (today)
-- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (5 days ago)
+- [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness (today)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 day ago)
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (6 days ago)
 - [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for coding agents (1 week ago)
 - [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 &#43; Private Cloud Compute 云端)· macOS 27 / Apple Silicon (1 week ago)
 - [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge) - Beautiful, AI-native markdown IDE and LLM wiki (2 weeks ago)
-- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (2 weeks ago)
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (3 weeks ago)
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex (3 weeks ago)
 - [b-nnett/goose](https://github.com/b-nnett/goose) - Goose Swift proof-of-concept README (3 weeks ago)
 - [MisoLabsAI/MisoTTS](https://github.com/MisoLabsAI/MisoTTS) - Miso TTS is an 8 billion, highly emotive text-to-speech model (1 month ago)
-- [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
